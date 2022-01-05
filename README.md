@@ -1,5 +1,6 @@
 Requires [`pass-otp`](https://github.com/tadfisher/pass-otp)
-Patched to support one-time password generation straing to clipboard.
+
+Patched to support one-time password generation straight to clipboard.
 
 
 ## Moved to upstream distribution
