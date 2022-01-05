@@ -1,3 +1,7 @@
+Requires [`pass-otp`](https://github.com/tadfisher/pass-otp)
+Patched to support one-time password generation straing to clipboard.
+
+
 ## Moved to upstream distribution
 
 `passmenu` is now part of `pass` itself! The script is available bundled at
